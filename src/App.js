@@ -22,6 +22,7 @@ function App() {
   `;
   return (
     <div className="App">
+      <div><h1>안녕하세요</h1></div>
       <GlobalStyle/>
       <TodoTemplate>
         <TodoHeader />
